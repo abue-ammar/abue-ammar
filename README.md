@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @abdarker
-- 👀 I’m interested in Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Python, Javascript
 - 📫 Email me here if you need me darkerab@gmail.com
 
 <!---
