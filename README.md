@@ -9,10 +9,7 @@
 
 ## About Me 
 
-- 🎮 Passionate about games (playing and trying code one)
-- 🎓 B.Sc in Computer Engineering.
-- 🧑‍💻 Software Developer since 2017, Front-End most time
-- 💼 Currently working at <a href="#">N2Sys</a>
+<p align="justify">I am a software engineer with a goal set to become a software architect, I am willing to be a part of a software company where I can apply my learnings to  deliver satisfactory tasks  for the company and also where I can learn new technologies and methodologies that will keep me up to date with the industry and  help me in my career path.</p>
 
 </br>
 
