@@ -59,7 +59,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/abdarker)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iabueammar@gmail.com)
 
-<p> <img src="https://komarev.com/ghpvc/?username=abdarkerf&label=Profile%20Views&color=135429&style=flat"/> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=abdarker&label=Profile%20Views&color=blueviolet&style=flat"/> </p>
  
 
 ## GitHub Analytics 
