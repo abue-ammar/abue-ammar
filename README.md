@@ -24,6 +24,9 @@
  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
  ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
+ ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+ ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+ ![SCSS](https://img.shields.io/badge/SCSS-F01F7A?style=for-the-badge&logo=Codec&logoColor=white)
    
 ### Infrastructure and DevOps
   ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
