@@ -1,14 +1,8 @@
-# Hi there 👋 I am Abue Ammar
-
-# (This Page is still under development)
-
-
-
-## 👨🏻‍💻 About Me 
+# Hi there 👋🏼 I am Abue Ammar.
 
 <p align="justify">I am a software engineer with a goal set to become a software architect. I am passionate about learning new technologies and methodologies that will keep me up to date and  help me in my career path.</p>
 
-### 🔭 Have a look at my [website](https://abdarker.github.io).
+### 🔭 Have a look on my [website](https://abdarker.github.io).
 
 
 ## ⚡ Tech Stack
@@ -60,6 +54,10 @@
   ![Neact Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=for-the-badge&logo=flutter&logoColor=42bff5)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=for-the-badge&logo=dart&logoColor=42bff5)
+   
+## 📫 Get in touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/abdarker)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iabueammar@gmail.com)
  
 </br>
 
