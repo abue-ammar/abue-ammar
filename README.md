@@ -29,6 +29,10 @@
  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
  ![Ant Design](https://img.shields.io/badge/Ant%20Design-6933FF?style=for-the-badge&logo=Cockroach&logoColor=white)
  ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+ 
+ ### Backend
+ ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+ ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
    
 ### Infrastructure and DevOps
   ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
