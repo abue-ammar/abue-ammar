@@ -53,13 +53,11 @@
   ![Figma](https://img.shields.io/badge/-Windows%2011-333333?style=for-the-badge&logo=windows)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
   ![Windows](https://img.shields.io/badge/-Windows%2011-333333?style=for-the-badge&logo=windows)
-  ![Linux](https://img.shields.io/badge/-Windows%2011-333333?style=for-the-badge&logo=windows)
-  
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</br>
 
-## Technologies I'm interested to learn more 
-
+### Technologies I'm interested to learn more 
+  ![Neact Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=for-the-badge&logo=flutter&logoColor=42bff5)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=for-the-badge&logo=dart&logoColor=42bff5)
  
