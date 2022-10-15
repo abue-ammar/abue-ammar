@@ -22,7 +22,7 @@
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
- ![Material UI](https://img.shields.io/badge/Material--UI-0081CB.svg?style=flat-square&logo=material-ui&logoColor=white)
+ ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093.svg?style=flat-square&logo=styled-components&logoColor=white)
    
 ### Infrastructure and DevOps
