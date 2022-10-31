@@ -2,7 +2,7 @@
 
 <p align="justify">I am a software engineer with a goal set to become a software architect. I am passionate about learning new technologies and methodologies that will keep me up to date and  help me in my career path.</p>
 
-### 🔭 Have a look on my [website](https://abdarker.github.io).
+### 🔭 Have a look on my [portfolio](https://abdarker.github.io).
 
 
 ## ⚡ Tech Stack
