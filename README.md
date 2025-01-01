@@ -2,7 +2,7 @@
 
 <p align="justify">I am a software engineer with a goal set to become a software architect. I am passionate about learning new technologies and methodologies that will keep me up to date and  help me in my career path.</p>
 
-### 🔭 Have a look on my [portfolio](https://abdarker.github.io).
+### 🔭 Have a look on my [portfolio](https://abue-ammar.github.io).
 
 
 ## ⚡ Tech Stack
@@ -10,9 +10,7 @@
 ### Languages
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  
+
 ### Frontend
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -41,50 +39,28 @@
   
 
 ### Enviroment, IDEs and Tools
-  ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  ![Windows](https://img.shields.io/badge/-Windows%2011-333333?style=for-the-badge&logo=windows)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
 
 ### Technologies I'm interested to learn more 
   ![Neact Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=for-the-badge&logo=flutter&logoColor=42bff5)
-  ![Dart](https://img.shields.io/badge/-Dart-333333?style=for-the-badge&logo=dart&logoColor=42bff5)
    
 ## 📫 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/abdarker)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/abue-ammar)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iabueammar@gmail.com)
 
-<p> <img src="https://komarev.com/ghpvc/?username=abdarker&label=Profile%20Views&color=blueviolet&style=flat"/> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=abue-ammar&label=Profile%20Views&color=blueviolet&style=flat"/> </p>
  
 
 ## GitHub Analytics 
 
 <p align="center">
-<a href="https://github.com/abdarker">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdarker&count_private=true&show_icons=true&theme=merko" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdarker&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,java,ruby,swift,kotlin,shell" />
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abdarker&theme=merko"/>
+<a href="https://github.com/abue-ammar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abue-ammar&count_private=true&show_icons=true&theme=merko" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abue-ammar&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,java,ruby,swift,kotlin,shell" />
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abue-ammar&theme=merko"/>
 </a>
 </p>
 
-
-<!--
-**abdarker/abdarker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
