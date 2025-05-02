@@ -1,66 +1,73 @@
-# Hi there 👋🏼 I am Abue Ammar.
-
-<p align="justify">I am a software engineer with a goal set to become a software architect. I am passionate about learning new technologies and methodologies that will keep me up to date and  help me in my career path.</p>
-
-### 🔭 Have a look on my [portfolio](https://abue-ammar.github.io).
-
-
-## ⚡ Tech Stack
-
-### Languages
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frontend
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
- ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
- ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
- ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
- ![Ant Design](https://img.shields.io/badge/Ant%20Design-6933FF?style=for-the-badge&logo=Cockroach&logoColor=white)
- ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
- ![Styled Components](https://img.shields.io/badge/styled--components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
- 
- ### Backend
- ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
- ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
- 
- ### Database
- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
- ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
- ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-   
-### Version Controlling
-  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
-  ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-  
-
-### Enviroment, IDEs and Tools
-  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-
-
-### Technologies I'm interested to learn more 
-  ![Neact Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-   
-## 📫 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/abue-ammar)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iabueammar@gmail.com)
-
-<p> <img src="https://komarev.com/ghpvc/?username=abue-ammar&label=Profile%20Views&color=blueviolet&style=flat"/> </p>
- 
-
-## GitHub Analytics 
-
+<h1 align="center">Abue Ammar</h1>
 <p align="center">
-<a href="https://github.com/abue-ammar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abue-ammar&count_private=true&show_icons=true&theme=merko" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abue-ammar&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,java,ruby,swift,kotlin,shell" />
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abue-ammar&theme=merko"/>
-</a>
+  Dhaka, Bangladesh &nbsp;•&nbsp;
+  <a href="mailto:iabueammar@gmail.com">iabueammar@gmail.com</a> &nbsp;•&nbsp;
+  <a href="https://github.com/abue-ammar">GitHub</a> &nbsp;•&nbsp;
+  <a href="https://linkedin.com/in/abue-ammar">LinkedIn</a> &nbsp;•&nbsp;
+  +880 1521 323 900
 </p>
 
+---
+
+## 👋 Overview
+
+Passionate Software Engineer with 3+ years of professional experience in JavaScript, TypeScript, React, Next.js, and Node.js. Skilled in building responsive, high‑performance applications and collaborating in agile teams.
+
+---
+
+## 🛠️ Skills
+
+**Languages**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+
+**Frameworks & Libraries**  
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff)  
+![Ant Design](https://img.shields.io/badge/-AntD-0170FE?logo=ant-design&logoColor=fff)  
+![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?logo=mui&logoColor=fff)  
+![Shadcn UI](https://img.shields.io/badge/-Shadcn_UI-EC4899?logo=shadcn&logoColor=fff)  
+![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?logo=styled-components&logoColor=fff)  
+![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?logo=redux&logoColor=fff)  
+![Zustand](https://img.shields.io/badge/-Zustand-000000?logo=zustand&logoColor=fff)  
+![React Query](https://img.shields.io/badge/-React_Query-FF4154?logo=react-query&logoColor=fff)  
+![RTK Query](https://img.shields.io/badge/-RTK_Query-764ABC?logo=redux&logoColor=fff)  
+![React Router](https://img.shields.io/badge/-React_Router-CA4245?logo=react-router&logoColor=fff)
+
+**Dev Tools**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)  
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=fff)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)  
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=fff)  
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=fff)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)  
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=fff)
+
+**Familiar**  
+![React Native](https://img.shields.io/badge/-React_Native-20232A?logo=react&logoColor=61DAFB)  
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=fff)
+
+---
+
+## 🚀 Projects
+
+**[US‑Bangla Airlines Website & CMS](https://your-cms-link.example.com)**  
+Next.js • Tailwind CSS • Ant Design • Redux Toolkit  
+Developed a high‑performance, SSR‑powered airline site and CMS with dynamic page builder and role‑based access control.
+
+**[US‑Bangla Payment Gateway](https://your-gateway-link.example.com)**  
+React • Material UI • React Query • Zustand  
+Built a real‑time transactions dashboard serving multiple airline sites, with merchant sales, refunds, and analytics.
+
+**[RTV News & CMS](https://your-rtv-link.example.com)**  
+React • Next.js • Ant Design • Tailwind CSS • Zustand  
+Created a robust news portal with CMS, RBAC, monthly stats, real‑time user tracking, and integrated Google Ads & Analytics.
+
+**[DhakaMail News & CMS](https://your-dhakamail-link.example.com)**  
+React • Next.js • Ant Design • Tailwind CSS • Redux Toolkit  
+Architected a full‑featured news CMS with template management, RBAC, and live analytics dashboards.
