@@ -1,15 +1,11 @@
-<h1 align="center">Abue Ammar</h1>
-<p align="center">
-  Dhaka, Bangladesh &nbsp;•&nbsp;
-  <a href="mailto:iabueammar@gmail.com">iabueammar@gmail.com</a> &nbsp;•&nbsp;
-  <a href="https://github.com/abue-ammar">GitHub</a> &nbsp;•&nbsp;
-  <a href="https://linkedin.com/in/abue-ammar">LinkedIn</a> &nbsp;
-</p>
-
-
-### 👋 Overview
+### Hey, I'm Abue Ammar 👋🏼
 
 Passionate Software Engineer with 3+ years of professional experience in JavaScript, TypeScript, React, Next.js, and Node.js. Skilled in building responsive, high‑performance applications and collaborating in agile teams.
+
+- **Email:** [iabueammar@gmail.com](mailto:iabueammar@gmail.com)  
+- **GitHub:** [github.com/abue-ammar](https://github.com/abue-ammar)  
+- **LinkedIn:** [linkedin.com/in/abue-ammar](https://linkedin.com/in/abue-ammar)
+- **Portfolio:** [abue-ammar.me](https://abue-ammar.me)
 
 
 ### 🛠️ Skills
@@ -33,7 +29,7 @@ Passionate Software Engineer with 3+ years of professional experience in JavaScr
 Next.js • Tailwind CSS • Ant Design • Redux Toolkit  
 Developed a high‑performance, SSR‑powered airline site and CMS with dynamic page builder and role‑based access control.
 
-**[US‑Bangla Payment Gateway](#)**  
+**[US‑Bangla Payment Gateway](https://)**  
 React • Material UI • React Query • Zustand  
 Built a real‑time transactions dashboard serving multiple airline sites, with merchant sales, refunds, and analytics.
 
