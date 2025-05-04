@@ -6,15 +6,13 @@
   <a href="https://linkedin.com/in/abue-ammar">LinkedIn</a> &nbsp;
 </p>
 
----
 
-## 👋 Overview
+### 👋 Overview
 
 Passionate Software Engineer with 3+ years of professional experience in JavaScript, TypeScript, React, Next.js, and Node.js. Skilled in building responsive, high‑performance applications and collaborating in agile teams.
 
----
 
-## 🛠️ Skills
+### 🛠️ Skills
 
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
@@ -28,22 +26,21 @@ Passionate Software Engineer with 3+ years of professional experience in JavaScr
 **Familiar:**  
 ![React Native](https://img.shields.io/badge/-React_Native-20232A?logo=react&logoColor=61DAFB) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=fff)
 
----
 
-## 🚀 Projects
+### 🚀 Projects
 
-**[US‑Bangla Airlines Website & CMS](https://your-cms-link.example.com)**  
+**[US‑Bangla Airlines Website & CMS](https://usbair.com)**  
 Next.js • Tailwind CSS • Ant Design • Redux Toolkit  
 Developed a high‑performance, SSR‑powered airline site and CMS with dynamic page builder and role‑based access control.
 
-**[US‑Bangla Payment Gateway](https://your-gateway-link.example.com)**  
+**[US‑Bangla Payment Gateway](#)**  
 React • Material UI • React Query • Zustand  
 Built a real‑time transactions dashboard serving multiple airline sites, with merchant sales, refunds, and analytics.
 
-**[RTV News & CMS](https://your-rtv-link.example.com)**  
+**[RTV News & CMS](https://www.rtvonline.com)**  
 React • Next.js • Ant Design • Tailwind CSS • Zustand  
 Created a robust news portal with CMS, RBAC, monthly stats, real‑time user tracking, and integrated Google Ads & Analytics.
 
-**[DhakaMail News & CMS](https://your-dhakamail-link.example.com)**  
+**[DhakaMail News & CMS](https://dhakamail.com)**  
 React • Next.js • Ant Design • Tailwind CSS • Redux Toolkit  
 Architected a full‑featured news CMS with template management, RBAC, and live analytics dashboards.
