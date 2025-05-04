@@ -1,11 +1,9 @@
-### Hey, I'm Abue Ammar 👋🏼
+### 👋🏼 Hey, I’m Abue Ammar
 
-Passionate Software Engineer with 3+ years of professional experience in JavaScript, TypeScript, React, Next.js, and Node.js. Skilled in building responsive, high‑performance applications and collaborating in agile teams.
+I'm a Software Engineer with 3+ years of experience building fast, responsive web apps using JavaScript, TypeScript, React, Next.js, and Node.js. I focus on performance, clean code, and teamwork.
 
-- **Email:** [iabueammar@gmail.com](mailto:iabueammar@gmail.com)  
-- **GitHub:** [github.com/abue-ammar](https://github.com/abue-ammar)  
-- **LinkedIn:** [linkedin.com/in/abue-ammar](https://linkedin.com/in/abue-ammar)
-- **Portfolio:** [abue-ammar.me](https://abue-ammar.me)
+**Contact:**  
+[Email](mailto:iabueammar@gmail.com) · [GitHub](https://github.com/abue-ammar) · [LinkedIn](https://linkedin.com/in/abue-ammar) · [Portfolio](https://abue-ammar.me)
 
 
 ### 🛠️ Skills
