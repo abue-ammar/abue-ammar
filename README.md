@@ -22,19 +22,28 @@ I'm a Software Engineer with 3+ years of experience building fast, responsive we
 
 
 ### 🚀 Projects
-
 **[US‑Bangla Airlines Website & CMS](https://usbair.com)**  
-Next.js • Tailwind CSS • Ant Design • Redux Toolkit  
-Developed a high‑performance, SSR‑powered airline site and CMS with dynamic page builder and role‑based access control.
+NextJS • Tailwind CSS • Ant Design • Redux Toolkit
+- Implemented server-side rendering for optimal performance and SEO benefits.  
+- Reduced frontend bundle size by 40% through code splitting and optimization.  
+- Centralized flight and booking state management using Redux Toolkit.
 
 **[US‑Bangla Payment Gateway](https://)**  
-React • Material UI • React Query • Zustand  
-Built a real‑time transactions dashboard serving multiple airline sites, with merchant sales, refunds, and analytics.
+ReactJS • Material UI • React Query • Zustand
+- Optimized data fetching and caching with React Query, reducing load times by 35%.  
+- Leveraged Zustand for lightweight state management to streamline transaction flows.  
+- Integrated real-time transaction insights and improved refund handling across multiple platforms.
 
-**[RTV News & CMS](https://www.rtvonline.com)**  
-React • Next.js • Ant Design • Tailwind CSS • Zustand  
-Created a robust news portal with CMS, RBAC, monthly stats, real‑time user tracking, and integrated Google Ads & Analytics.
+**[RTV News & CMS](https://www.rtvonline.com/)**  
+ReactJS • NextJS • Ant Design • Tailwind CSS
+- Implemented server-side rendering to boost performance and SEO for high traffic.  
+- Engineered role‑based access control and a drag‑and‑drop page builder for editors.  
+- Accelerated content publishing workflows by 50% through optimized build and deployment.
 
-**[DhakaMail News & CMS](https://dhakamail.com)**  
-React • Next.js • Ant Design • Tailwind CSS • Redux Toolkit  
-Architected a full‑featured news CMS with template management, RBAC, and live analytics dashboards.
+**[DhakaMail News & CMS](https://dhakamail.com/)**  
+ReactJS • NextJS • Ant Design • Redux Toolkit
+- Implemented server-side rendering for faster load times and improved SEO.  
+- Engineered role‑based access control and dynamic template management features.  
+- Enabled real‑time user analytics dashboards for actionable content insights.  
+- Optimized rendering pipeline to boost frontend performance by 45% and reduce bundle size by 20%.
+  
