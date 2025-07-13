@@ -1,6 +1,6 @@
 ### 👋🏼 Hey, I’m Abue Ammar
 
-I'm a Software Engineer with 3+ years of experience building fast, responsive web apps using JavaScript, TypeScript, React, Next.js, and Node.js. I focus on performance, clean code, and teamwork.
+I'm a Software Engineer with `3+` years of experience building fast, responsive web apps using `JavaScript, TypeScript, React, Next.js and Node.js`. I focus on performance, clean code, and teamwork.
 
 **Contact:**  
 [Email](mailto:iabueammar@gmail.com) · [GitHub](https://github.com/abue-ammar) · [LinkedIn](https://linkedin.com/in/abue-ammar) · [Portfolio](https://abue-ammar.me)
@@ -22,28 +22,32 @@ I'm a Software Engineer with 3+ years of experience building fast, responsive we
 
 
 ### 🚀 Projects
+
 **[US‑Bangla Airlines Website & CMS](https://usbair.com)**  
-NextJS • Tailwind CSS • Ant Design • Redux Toolkit
-- Implemented server-side rendering for optimal performance and SEO benefits.  
-- Reduced frontend bundle size by 40% through code splitting and optimization.  
-- Centralized flight and booking state management using Redux Toolkit.
+
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white) ![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?logo=ant-design&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white)
+- Implemented **server-side rendering** for optimal performance and SEO benefits.  
+- Reduced frontend bundle size by ``40%`` through **code splitting** and optimization.  
+- Centralized flight and booking state management using **Redux Toolkit**.
 
 **[US‑Bangla Payment Gateway](https://)**  
-ReactJS • Material UI • React Query • Zustand
-- Optimized data fetching and caching with React Query, reducing load times by 35%.  
-- Leveraged Zustand for lightweight state management to streamline transaction flows.  
-- Integrated real-time transaction insights and improved refund handling across multiple platforms.
+
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Material UI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white) ![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=react-query&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-000000?logo=react&logoColor=white)
+- Optimized data fetching and caching with **React Query**, reducing load times by ``35%``.  
+- Leveraged **Zustand** for lightweight state management to streamline transaction flows.  
+- Integrated real-time transaction insights and improved refund handling across platforms.
 
 **[RTV News & CMS](https://www.rtvonline.com/)**  
-ReactJS • NextJS • Ant Design • Tailwind CSS
-- Implemented server-side rendering to boost performance and SEO for high traffic.  
-- Engineered role‑based access control and a drag‑and‑drop page builder for editors.  
-- Accelerated content publishing workflows by 50% through optimized build and deployment.
+
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white) ![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?logo=ant-design&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+- Implemented **server-side rendering** to boost performance and SEO for high traffic.  
+- Engineered **role‑based access control** and a **drag‑and‑drop page builder** for editors.  
+- Accelerated content publishing workflows by ``50%`` through optimized build and deployment.
 
 **[DhakaMail News & CMS](https://dhakamail.com/)**  
-ReactJS • NextJS • Ant Design • Redux Toolkit
-- Implemented server-side rendering for faster load times and improved SEO.  
-- Engineered role‑based access control and dynamic template management features.  
-- Enabled real‑time user analytics dashboards for actionable content insights.  
-- Optimized rendering pipeline to boost frontend performance by 45% and reduce bundle size by 20%.
-  
+
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white) ![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?logo=ant-design&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white)
+- Implemented **server-side rendering** for faster load times and improved SEO.  
+- Built **role‑based access control** and **dynamic template management** features.  
+- Enabled **real‑time analytics dashboards** for actionable content insights.  
+- Optimized rendering pipeline to boost frontend performance by ``45%`` and reduce bundle size by ``20%``.
