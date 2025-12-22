@@ -3,7 +3,7 @@
 I'm a Software Engineer with `3+` years of experience building fast, responsive web apps using `JavaScript, TypeScript, React, Next.js and Node.js`. I focus on performance, clean code, and teamwork.
 
 **Contact:**  
-[Email](mailto:iabueammar@gmail.com) · [GitHub](https://github.com/abue-ammar) · [LinkedIn](https://linkedin.com/in/abue-ammar) · [Portfolio](https://abue-ammar.me)
+[Email](mailto:iabueammar@gmail.com) · [GitHub](https://github.com/abue-ammar) · [LinkedIn](https://linkedin.com/in/abue-ammar) · [Portfolio](https://abue-ammar.github.io)
 
 
 ### 🛠️ Skills
