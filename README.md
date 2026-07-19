@@ -1,39 +1,48 @@
-### 👋🏼 Hey, I'm Abue Ammar
-
-I'm a **Software Engineer** with **4 years** of professional experience building scalable, high-performance web applications using **JavaScript, TypeScript, React, Next.js, and Node.js**. I enjoy developing modern frontend experiences, designing backend services, and optimizing applications for performance, maintainability, and scalability.
-
-**Contact:**  
-[Email](mailto:iabueammar@gmail.com) · [GitHub](https://github.com/abue-ammar) · [LinkedIn](https://linkedin.com/in/abue-ammar) · [Portfolio](https://abue-ammar.github.io)
-
----
-### 🛠️ Skills
-
-#### Languages
-[![Languages](https://skillicons.dev/icons?i=js,ts,go,html,css)](https://skillicons.dev)
-
-#### Frameworks & Libraries
-[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,redux)](https://skillicons.dev)
-
-<p>
-  <img src="https://img.shields.io/badge/Zustand-18181B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ant_Design-1677FF?style=for-the-badge&logo=antdesign&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge" />
-</p>
-
-#### Backend & Database
-[![Backend](https://skillicons.dev/icons?i=mongodb,postgres,prisma,redis)](https://skillicons.dev)
-
-<p>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-</p>
-
-#### Dev Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,docker,vscode,vite,webpack)](https://skillicons.dev)
-
-<p>
-  <img src="https://img.shields.io/badge/Rollup-EC4A3F?style=for-the-badge&logo=rollupdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+<pre>
+ABUE AMMAR <3
+================
+Software Engineer with 4+ years shipping production apps in JS/TS/React/Next.js/Node.js.
+Currently building crew &amp; fleet ops tools at scale — and a native macOS launcher on the side.
+---------------
+Connect With Me
+» GitHub     → https://github.com/abue-ammar
+» Portfolio  → https://abue-ammar.github.io
+» LinkedIn   → https://linkedin.com/in/your-handle
+» Email      → iabueammar@gmail.com
+» Phone      → +8801521323900
+--------------
+Skills &amp; Tools
+» Languages:    JavaScript, TypeScript, Go, HTML, CSS
+» Frontend:     React, Next.js, Zustand, Redux Toolkit, Tailwind CSS, Ant Design, Shadcn/ui, React Query, RTK Query
+» Backend:      Node.js, Express, RabbitMQ, BullMQ, Redis
+» Database/ORM: MongoDB, PostgreSQL, Prisma
+» Dev Tools:    Git, Docker, Webpack, Rspack, Vite, Rollup, Claude Code, Codex
+-----------------
+Currently Building
+● TinyCast
+  ✦ Lightweight macOS launcher (SwiftUI) — app launching, global hotkeys, clipboard manager. Built for the Liquid Glass era, Spotlight-inspired.
+-----------------
+Featured Projects
+● FlightOps — Notification Service
+  ✦ Fire-and-forget microservice pushing real-time FCM alerts to crew &amp; drivers. Idempotent event processing via unique eventId indexing, dead-letter retry for guaranteed delivery.
+  ✦ Stack: Node.js, TypeScript, MongoDB, RabbitMQ, Firebase FCM
+● FlightOps — Crew &amp; Fleet Ops Dashboard
+  ✦ Admin platform for crew scheduling, training management, and vehicle logistics — unified into a single role-based interface.
+  ✦ Stack: React, TypeScript, Zustand, Tailwind CSS
+● Cartup — Seller Storefront Builder
+  ✦ Drag-and-drop page builder for sellers, with reusable composable UI and real-time layout editing.
+  ✦ Stack: Next.js, TypeScript, dnd-kit, Zustand, Tailwind CSS
+● Foodi — Food Ordering Platform &amp; Mart
+  ✦ Consumer food ordering app + grocery integration, full checkout flow with payment gateway.
+  ✦ Stack: Next.js, React, Tailwind CSS
+● RTV — News Portal &amp; CMS
+  ✦ High-traffic SSR news platform with RBAC and custom page builder, publishing speed up 50%.
+  ✦ Stack: React, Next.js, Ant Design, Tailwind CSS, Zustand
+--------------------------
+Experience
+» Software Engineer, TechnoNext Ltd. — Jul 2024 – Present
+» Jr. Software Engineer, TechnoNext Ltd. — Dec 2022 – Sept 2024
+--------------------------
+Thanks for stopping by! Always shipping, always debugging.
+Open to interesting problems — say hi anytime.
+</pre>
