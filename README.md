@@ -1,3 +1,11 @@
+### 👋🏼 Hey, I'm Abue Ammar
+
+I'm a **Software Engineer** with **4 years** of professional experience building scalable, high-performance web applications using **JavaScript, TypeScript, React, Next.js, and Node.js**. I enjoy developing modern frontend experiences, designing backend services, and optimizing applications for performance, maintainability, and scalability.
+
+**Contact:**  
+[Email](mailto:iabueammar@gmail.com) · [GitHub](https://github.com/abue-ammar) · [LinkedIn](https://linkedin.com/in/abue-ammar) · [Portfolio](https://abue-ammar.github.io)
+
+---
 ### 🛠️ Skills
 
 #### Languages
