@@ -1,8 +1,8 @@
 ABUE AMMAR
 ===========
 
-Software Engineer with 4+ years shipping production apps in JS/TS/React/Next.js/Node.js.
-Currently building crew & fleet ops tools at scale — and a native macOS launcher on the side.
+Software Engineer with 4+ years shipping production apps in JS/TS/Swift/React/Next.js/Node.js.
+Currently building a native lightweight macOS launcher (SwiftUI & Appkit).
 
 ---------------
 Connect With Me
@@ -14,7 +14,7 @@ Connect With Me
 --------------
 Skills & Tools
 
-» Languages:    JavaScript, TypeScript, Go, HTML, CSS
+» Languages:    JavaScript, TypeScript, Go, Swift, HTML, CSS
 » Frontend:     React, Next.js, Zustand, Redux Toolkit, Tailwind CSS, Ant Design, Shadcn/ui, React Query, RTK Query
 » Backend:      Node.js, Express, RabbitMQ, BullMQ, Redis
 » Database/ORM: MongoDB, PostgreSQL, Prisma
@@ -24,37 +24,8 @@ Skills & Tools
 Currently Building
 
 ● Tinycast
-  ✦ Lightweight macOS launcher (SwiftUI) — app launching, global hotkeys, clipboard manager. Built for the Liquid Glass era, Spotlight-inspired.
+  ✦ Lightweight macOS launcher (SwiftUI & Appkit) — app launching, global hotkeys, clipboard manager. Built for the Liquid Glass era, Spotlight-inspired.
   ✦ Links: https://tinycast.dev
-
------------------
-Featured Projects
-
-● FlightOps — Notification Service
-  ✦ Fire-and-forget microservice pushing real-time FCM alerts to crew & drivers. Idempotent event processing via unique eventId indexing, dead-letter retry for guaranteed delivery.
-  ✦ Stack: Node.js, TypeScript, MongoDB, RabbitMQ, Firebase FCM
-
-● FlightOps — Crew & Fleet Ops Dashboard
-  ✦ Admin platform for crew scheduling, training management, and vehicle logistics — unified into a single role-based interface.
-  ✦ Stack: React, TypeScript, Zustand, Tailwind CSS
-
-● Cartup — Seller Storefront Builder
-  ✦ Drag-and-drop page builder for sellers, with reusable composable UI and real-time layout editing.
-  ✦ Stack: Next.js, TypeScript, dnd-kit, Zustand, Tailwind CSS
-
-● Foodi — Food Ordering Platform & Mart
-  ✦ Consumer food ordering app + grocery integration, full checkout flow with payment gateway.
-  ✦ Stack: Next.js, React, Tailwind CSS
-
-● RTV — News Portal & CMS
-  ✦ High-traffic SSR news platform with RBAC and custom page builder, publishing speed up 50%.
-  ✦ Stack: React, Next.js, Ant Design, Tailwind CSS, Zustand
-
---------------------------
-Experience
-
-» Software Engineer, TechnoNext Ltd. — Jul 2024 – Present
-» Jr. Software Engineer, TechnoNext Ltd. — Dec 2022 – Sept 2024
 
 --------------------------
 Thanks for stopping by! Always shipping, always debugging.
